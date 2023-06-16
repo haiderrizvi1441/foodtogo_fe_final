@@ -8,7 +8,7 @@ import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
 import {HiUserCircle} from "react-icons/hi"
 import {FaRocket} from "react-icons/fa"
-import Searchbar from '../components/Searchbar'
+import Searchbar from './Searchbar';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import {BrowserRouter, NavLink, Link} from "react-router-dom";
 import AssignmentIndTwoToneIcon from '@mui/icons-material/AssignmentIndTwoTone';
